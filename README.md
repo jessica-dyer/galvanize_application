@@ -1,1 +1,1 @@
-# galvanize_application
+# Galvanize Technical Admissions Assessment Prep
